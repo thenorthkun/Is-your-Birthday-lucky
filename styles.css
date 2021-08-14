@@ -16,9 +16,11 @@ h1{
 input, label{
     display: block;
     margin:auto;
-
 }
 
 input{
     margin-bottom: 1.0rem;
+    width: 40%;
 }
+
+

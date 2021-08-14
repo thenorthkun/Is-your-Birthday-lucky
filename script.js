@@ -17,10 +17,10 @@ btn.addEventListener('click',function clickHandler(){
 		sum=sum+Number(letter);
 	}
 	if(sum%luckval==0){
-		outputTxt.innerHTML=`you are lucky`
+		outputTxt.innerHTML=`WoW! You are lucky ! 😎`
 	}
 	else{
-		outputTxt.innerHTML="not lucky"
+		outputTxt.innerHTML="Not so lucky afterall. 😐"
 	}
 });
 
